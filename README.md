@@ -7,7 +7,7 @@
 <h3 align="center">Data Science Enthusiast | AI Solutions Builder | Workflow Automation</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/A-Elmarakby">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007BA7&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+%26+Analytics;Building+Workflow+Automations;Architecting+Cloud+Solutions" alt="Typing SVG" />
   </a>
 </p>
@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
 </p>
