@@ -4,11 +4,11 @@
 
 <h1 align="center">Hi there, I'm Abdelrahman Elmarakby! 👋</h1>
 
-<h3 align="center">Data Science Enthusiast | AI Solutions Builder | Workflow Automation</h3>
+<h3 align="center">AI Engineer (Fresh Grad) | Junior Data Analyst | Aspiring Data Scientist</h3>
 
 <p align="center">
   <a href="https://github.com/A-Elmarakby">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007BA7&center=true&vCenter=true&width=600&lines=Exploring+Data+Science+%26+Analytics;Building+Workflow+Automations;Architecting+Cloud+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=007BA7&center=true&vCenter=true&width=800&lines=Let’s+connect+and+turn+your+data+into+stories.;Got+a+tech+puzzle?+Let’s+solve+it+together!;Hit+me+up+for+collaborations+or+just+to+say+hi!" alt="Typing SVG" />
   </a>
 </p>
 
