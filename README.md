@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/A-Elmarakby/A-Elmarakby/blob/main/media/Abdelrahman-Elmarakby-1.png" alt="Abdelrahman Elmarakby Logo" width="150px" height="auto">
+  <img src="https://github.com/A-Elmarakby/A-Elmarakby/blob/main/media/Abdelrahman-Elmarakby-2.png" alt="Abdelrahman Elmarakby Logo" width="150px" height="auto">
 </p>
 
 <h1 align="center">Hi there, I'm Abdelrahman Elmarakby! 👋</h1>
