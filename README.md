@@ -13,11 +13,22 @@
 </p>
 
 <p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/a-elmarakby/"><img src="https://img.shields.io/badge/Microsoft_Learn-%23B20059.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"></a>
   <a href="https://www.linkedin.com/in/a-elmarakby"><img src="https://img.shields.io/badge/LinkedIn-%23007BA7.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR_EMAIL@EXAMPLE.COM"><img src="https://img.shields.io/badge/Email-%23B20059.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Behance-%23007BA7.svg?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
+  <a href="mailto:abderhmanelmarakby20@gmail.com"><img src="https://img.shields.io/badge/Email-%23B20059.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/201010043281"><img src="https://img.shields.io/badge/WhatsApp-%23007BA7.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
   <a href="#"><img src="https://img.shields.io/badge/YouTube-%23B20059.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
+
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/a-elmarakby/" target="_blank"><img src="https://img.shields.io/badge/Microsoft_Learn-%23B20059.svg?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn"></a>
+  <a href="https://www.linkedin.com/in/a-elmarakby" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%23007BA7.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:abderhmanelmarakby20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-%23B20059.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/201010043281" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-%23007BA7.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23B20059.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+</p>
+
 
 ---
 
