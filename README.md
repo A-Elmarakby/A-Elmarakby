@@ -68,15 +68,72 @@
 
 ---
 
-### 🚀 Featured Projects & Internal Tools
+### 🚀 Featured Projects
 
-| Project | Description |
-| :--- | :--- |
-| **[Workflow Automation: ElmarakbyTube Downloader](#)** | A practical Python utility built to solve daily media downloading bottlenecks. Created to save time and effort for the team using `yt-dlp` and CustomTkinter. |
-| **[Smart Workspace Tracking System](#)** | An AI-powered system using YOLO and Face Recognition integrated with Azure to track employee attendance and movement. |
-| **[Secure Private Network Enabler](#)** | A professional PowerShell script designed to safely automate and enable file sharing across a 40-device enterprise network. |
-| **[TrueNAS Archiving Infrastructure](#)** | Planned a centralized server solution using TrueNAS to protect company digital assets and automate data safety workflows. |
+<table width="100%" border="0" style="border-collapse: collapse;">
 
+<tr>
+<td width="120" align="center" valign="top">
+<a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI">
+<img src="https://raw.githubusercontent.com/A-Elmarakby/A-Elmarakby/main/media/Shutdown-Timer.png" width="100" style="border-radius: 15px;" alt="Timer Logo">
+</a>
+</td>
+<td valign="top">
+<a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI" style="text-decoration: none; color: inherit;">
+<b style="font-size: 20px;">Auto Computer Shutdown Timer (GUI)</b>
+</a>
+<br>
+<p style="margin-top: 5px; margin-bottom: 10px; color: #E5E5E5;">A graphical interface tool to schedule and automate Windows shutdown operations easily.</p>
+<img src="https://skillicons.dev/icons?i=py,windows" height="25" alt="Tech Stack"><br><br>
+<a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI/releases/latest"><img src="https://img.shields.io/badge/Download_Now-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
+<img src="https://img.shields.io/github/downloads/A-Elmarakby/Shutdown-Timer-GUI/total?style=flat-square&color=007BA7&logo=github&logoColor=white&label=Downloads" height="24" alt="Downloads">
+<img src="https://img.shields.io/github/v/release/A-Elmarakby/Shutdown-Timer-GUI?style=flat-square&color=007BA7&label=Version" height="24" alt="Version">
+</td>
+</tr>
+
+<tr><td colspan="2"><hr style="border: 1px solid #30363D;"></td></tr>
+
+<tr>
+<td width="120" align="center" valign="top">
+<a href="https://github.com/A-Elmarakby/ElmarakbyTube">
+<img src="https://placehold.co/100x100/B20059/FFFFFF?text=Tube" width="100" style="border-radius: 15px;" alt="Tube Logo">
+</a>
+</td>
+<td valign="top">
+<a href="https://github.com/A-Elmarakby/ElmarakbyTube" style="text-decoration: none; color: inherit;">
+<b style="font-size: 20px;">ElmarakbyTube Downloader</b>
+</a>
+<br>
+<p style="margin-top: 5px; margin-bottom: 10px; color: #E5E5E5;">A practical Python utility built to solve daily media downloading bottlenecks. Created to save time and effort for the team.</p>
+<img src="https://skillicons.dev/icons?i=py,github" height="25" alt="Tech Stack"><br><br>
+<a href="https://github.com/A-Elmarakby/ElmarakbyTube/releases/latest"><img src="https://img.shields.io/badge/Download_App-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
+<img src="https://img.shields.io/github/downloads/A-Elmarakby/ElmarakbyTube/total?style=flat-square&color=007BA7&logo=github&logoColor=white&label=Downloads" height="24" alt="Downloads">
+<img src="https://img.shields.io/github/v/release/A-Elmarakby/ElmarakbyTube?style=flat-square&color=007BA7&label=Version" height="24" alt="Version">
+</td>
+</tr>
+
+<tr><td colspan="2"><hr style="border: 1px solid #30363D;"></td></tr>
+
+<tr>
+<td width="120" align="center" valign="top">
+<a href="https://github.com/A-Elmarakby/segment-anything">
+<img src="https://placehold.co/100x100/007BA7/FFFFFF?text=SAM" width="100" style="border-radius: 15px;" alt="Segment Anything Logo">
+</a>
+</td>
+<td valign="top">
+<a href="https://github.com/A-Elmarakby/segment-anything" style="text-decoration: none; color: inherit;">
+<b style="font-size: 20px;">Segment Anything (SAM)</b>
+</a>
+<br>
+<p style="margin-top: 5px; margin-bottom: 10px; color: #E5E5E5;">A foundation model towards solving promptable visual segmentation in images and videos (Forked from Meta AI Research).</p>
+<img src="https://skillicons.dev/icons?i=py,pytorch" height="25" alt="Tech Stack"><br><br>
+<a href="https://github.com/A-Elmarakby/segment-anything"><img src="https://img.shields.io/badge/View_Source_Code-%23B20059.svg?style=flat-square&logo=github&logoColor=white" height="24" alt="View Source Code"></a>
+<img src="https://img.shields.io/github/repo-size/A-Elmarakby/segment-anything?style=flat-square&color=007BA7" height="24" alt="Repo Size">
+<img src="https://img.shields.io/github/last-commit/A-Elmarakby/segment-anything?style=flat-square&color=007BA7" height="24" alt="Last Commit">
+</td>
+</tr>
+
+</table>
 ---
 
 ### 📊 GitHub Stats
