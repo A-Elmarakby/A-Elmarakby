@@ -67,7 +67,6 @@
 * 📚 **Completed:** Microsoft Fabric & Apache Spark Learning Paths (Data Analytics)
 
 ---
-
 ### 🚀 Featured Projects
 
 <table width="100%" border="0" style="border-collapse: collapse;">
@@ -85,7 +84,7 @@
 <br>
 <p style="margin-top: 5px; margin-bottom: 10px; color: #E5E5E5;">A graphical interface tool to schedule and automate Windows shutdown operations easily.</p>
 <img src="https://skillicons.dev/icons?i=py,windows" height="25" alt="Tech Stack"><br><br>
-<a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI/releases/latest"><img src="https://img.shields.io/badge/Download_Now-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
+<a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI/releases/latest/download/Shutdown-Timer.exe"><img src="https://img.shields.io/badge/Download_Now-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
 <img src="https://img.shields.io/github/downloads/A-Elmarakby/Shutdown-Timer-GUI/total?style=flat-square&color=007BA7&logo=github&logoColor=white&label=Downloads" height="24" alt="Downloads">
 <img src="https://img.shields.io/github/v/release/A-Elmarakby/Shutdown-Timer-GUI?style=flat-square&color=007BA7&label=Version" height="24" alt="Version">
 </td>
