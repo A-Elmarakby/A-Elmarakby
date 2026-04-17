@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: A-Elmarakby
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#B20059&color_dots=#ebedf0,#007ba7,#005a7a,#003d52,#00212b
+            dist/github-contribution-grid-snake.svg?color_snake=#B20059&color_dots=#161b22,#007ba7,#005a7a,#003d52,#00212b
           
       # push the content of <build_dir> to a personal branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<svg_out_path>
