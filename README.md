@@ -115,41 +115,44 @@
 
 ### 📊 GitHub Insights & Metrics
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=A-Elmarakby&color=007BA7&style=for-the-badge&label=PROFILE+VIEWS" alt="Total Views" />
-  <img src="https://img.shields.io/badge/dynamic/json?color=b20059&label=Unique%20Visitors&query=value&url=https://api.countapi.xyz/hit/A-Elmarakby/unique&style=for-the-badge" alt="Unique Views" />
-</p>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FA-Elmarakby&label=UNIQUE%20VISITORS&countColor=%23B20059&labelColor=%23007BA7&style=for-the-badge" alt="Unique Views" />
+</div>
 
 <br>
 
-<table width="100%" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Elmarakby&theme=transparent&stroke=007BA7&fire=B20059&ring=007BA7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table width="100%" border="0" align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Elmarakby&theme=transparent&stroke=007BA7&fire=B20059&ring=007BA7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
 
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Elmarakby&bg_color=00000000&color=007BA7&line=007BA7&point=B20059&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
-</p>
+</div>
 
 <br>
 
-<p align="center">
-  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=A-Elmarakby&color_snake=B20059&color_dots=ebedf0,007BA7,005a7a,003d52,00212b" alt="GitHub Snake" />
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/A-Elmarakby/A-Elmarakby/snake/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</div>
 
-<p align="center">
+<div align="center">
+  <br>
   <i>Keep coding, keep growing. 🚀</i>
-</p>
+</div>
