@@ -20,7 +20,6 @@
   <a href="https://www.youtube.com/@AbdelrahmanElmarakby"><img src="https://img.shields.io/badge/YouTube-%23B20059.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-
 ---
 
 ### 👨‍💻 About Me
@@ -67,6 +66,7 @@
 * 📚 **Completed:** Microsoft Fabric & Apache Spark Learning Paths (Data Analytics)
 
 ---
+
 ### 🚀 Featured Projects
 
 <table width="100%" border="0" style="border-collapse: collapse;">
@@ -86,7 +86,6 @@
 <img src="https://skillicons.dev/icons?i=py,windows" height="25" alt="Tech Stack"><br><br>
 <a href="https://github.com/A-Elmarakby/Shutdown-Timer-GUI/releases/latest/download/Shutdown-Timer.exe"><img src="https://img.shields.io/badge/Download_Now-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
 <img src="https://img.shields.io/github/downloads/A-Elmarakby/Shutdown-Timer-GUI/total?style=flat-square&color=007BA7&logo=github&logoColor=white&label=Downloads" height="24" alt="Downloads">
-<img src="https://img.shields.io/github/v/release/A-Elmarakby/Shutdown-Timer-GUI?style=flat-square&color=007BA7&label=Version" height="24" alt="Version">
 </td>
 </tr>
 
@@ -107,39 +106,50 @@
 <img src="https://skillicons.dev/icons?i=py,github" height="25" alt="Tech Stack"><br><br>
 <a href="https://github.com/A-Elmarakby/ElmarakbyTube/releases/latest"><img src="https://img.shields.io/badge/Download_App-%23B20059.svg?style=flat-square&logo=download&logoColor=white" height="24" alt="Download"></a>
 <img src="https://img.shields.io/github/downloads/A-Elmarakby/ElmarakbyTube/total?style=flat-square&color=007BA7&logo=github&logoColor=white&label=Downloads" height="24" alt="Downloads">
-<img src="https://img.shields.io/github/v/release/A-Elmarakby/ElmarakbyTube?style=flat-square&color=007BA7&label=Version" height="24" alt="Version">
-</td>
-</tr>
-
-<tr><td colspan="2"><hr style="border: 1px solid #30363D;"></td></tr>
-
-<tr>
-<td width="120" align="center" valign="top">
-<a href="https://github.com/A-Elmarakby/segment-anything">
-<img src="https://placehold.co/100x100/007BA7/FFFFFF?text=SAM" width="100" style="border-radius: 15px;" alt="Segment Anything Logo">
-</a>
-</td>
-<td valign="top">
-<a href="https://github.com/A-Elmarakby/segment-anything" style="text-decoration: none; color: inherit;">
-<b style="font-size: 20px;">Segment Anything (SAM)</b>
-</a>
-<br>
-<p style="margin-top: 5px; margin-bottom: 10px; color: #E5E5E5;">A foundation model towards solving promptable visual segmentation in images and videos (Forked from Meta AI Research).</p>
-<img src="https://skillicons.dev/icons?i=py,pytorch" height="25" alt="Tech Stack"><br><br>
-<a href="https://github.com/A-Elmarakby/segment-anything"><img src="https://img.shields.io/badge/View_Source_Code-%23B20059.svg?style=flat-square&logo=github&logoColor=white" height="24" alt="View Source Code"></a>
-<img src="https://img.shields.io/github/repo-size/A-Elmarakby/segment-anything?style=flat-square&color=007BA7" height="24" alt="Repo Size">
-<img src="https://img.shields.io/github/last-commit/A-Elmarakby/segment-anything?style=flat-square&color=007BA7" height="24" alt="Last Commit">
 </td>
 </tr>
 
 </table>
+
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights & Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=A-Elmarakby&color=007BA7&style=for-the-badge&label=PROFILE+VIEWS" alt="Total Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?color=b20059&label=Unique%20Visitors&query=value&url=https://api.countapi.xyz/hit/A-Elmarakby/unique&style=for-the-badge" alt="Unique Views" />
 </p>
+
+<br>
+
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=A-Elmarakby&theme=transparent&stroke=007BA7&fire=B20059&ring=007BA7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=A-Elmarakby&bg_color=00000000&color=007BA7&line=007BA7&point=B20059&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?username=A-Elmarakby&color_snake=B20059&color_dots=ebedf0,007BA7,005a7a,003d52,00212b" alt="GitHub Snake" />
+</p>
+
+<p align="center">
+  <i>Keep coding, keep growing. 🚀</i>
 </p>
