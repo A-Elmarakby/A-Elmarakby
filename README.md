@@ -117,7 +117,8 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=A-Elmarakby&color=007BA7&style=for-the-badge&label=PROFILE+VIEWS" alt="Total Views" />
-  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FA-Elmarakby&label=UNIQUE%20VISITORS&countColor=%23B20059&labelColor=%23007BA7&style=for-the-badge" alt="Unique Views" />
+  
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FA-Elmarakby&label=UNIQUE%20VISITORS&countColor=%23007BA7&labelColor=%23555555&style=for-the-badge" alt="Unique Views" />
 </div>
 
 <br>
@@ -129,7 +130,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=A-Elmarakby&show_icons=true&theme=transparent&title_color=007BA7&icon_color=B20059&text_color=ffffff&hide_border=true" alt="GitHub Stats" />
       </td>
       <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Elmarakby&layout=compact&theme=transparent&title_color=007BA7&text_color=ffffff&hide_border=true&hide=scss&langs_count=8" alt="Top Languages" />
       </td>
     </tr>
     <tr>
